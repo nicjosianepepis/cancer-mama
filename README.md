@@ -12,5 +12,5 @@ Este repositório é um projeto do curso de Tópicos Especiais em Inteligência 
 =============
 
 TM416 - TOP. ESP. Inteligência Artificial  - <a target="_blank" href="http://www.cc.ufrrj.br/">Curso de Ciência da Computação</a> - <a target="_blank" href="http://r1.ufrrj.br/im/wp/departamentos/dtl/">Departamento de Tecnologias e Linguagens</a><br>
-Professor <a href="http://www.cc.ufrrj.br/equipe/carlos-mello/">Carlos Eduardo Mello</a><br>
+Professor <a target="_blank" href="http://www.cc.ufrrj.br/equipe/carlos-mello/">Carlos Eduardo Mello</a><br>
 <a target="_blank" href="http://www.ufrrj.br/portal/modulo/home/index.php">UFRRJ</a><br></p>
